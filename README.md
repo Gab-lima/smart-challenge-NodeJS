@@ -44,4 +44,6 @@ https://spigandoeaprendendo.wordpress.com/2014/03/14/jquery-os-metodos-remove-e-
 
 https://stackoverflow.com/questions/11179406/jquery-get-value-of-select-onchange
 
+https://stackoverflow.com/questions/18310394/no-access-control-allow-origin-node-apache-port-issue
+
 Youtube: https://www.youtube.com/watch?v=BkJUFRrBrhY - aula 1 até a 7
